@@ -59,7 +59,7 @@ const Hero = () => {
                             rel="noopener noreferrer"
                             className="mb-5 bg-purple-800 hover:bg-purple-600 text-white hover:text-neutral-900 font-bold py-2 px-4 rounded"
                         >
-                            Resume
+                            View Resume
                         </motion.a>
                     </div>
 
